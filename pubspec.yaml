@@ -1,7 +1,6 @@
 name: life_cycle_manager
 description: Manage APP LifeCycle.
 version: 0.0.1
-author: Elton Morais
 homepage: https://github.com/eltonmorais/life_cycle_manager/
 
 environment:
